@@ -55,7 +55,7 @@ const Hero = () => {
                                 hola-kanola
                             </a>
                         </div>
-                        </div>    
+                        </div>   
                     </div>
                 </div>
             </div>

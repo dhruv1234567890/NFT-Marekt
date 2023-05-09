@@ -13,7 +13,7 @@ const style = {
     assetName: `font-bold text-lg mt-2`,
     infoRight: `flex-0.4 text-right`,
     priceTag: `font-semibold text-sm text-[#8a939b]`,
-    priceValue: `flex items-center text-xl font-bold mt-2`,
+    priceValue: `flex items-center text-x1 font-bold mt-2`,
     ethLogo: `h-5 mr-2`,
     likes: `text-[#8a939b] font-bold flex items-center w-full justify-end mt-3`,
     likeIcon: `text-xl mr-2`,
